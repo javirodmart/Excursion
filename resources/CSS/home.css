@@ -1,0 +1,29 @@
+.head{
+  font-family:verdana;
+  font-weight: normal;
+  font-size: 50px;
+  text-align: center;
+  color: white
+}
+
+.sub{
+  color:Aquamarine;
+  font-size: 16px;
+}
+body{
+  background-color: black;
+  text-align: center;
+}
+
+.travel{
+  font-family: verdana;
+  font-weight: 300;
+  font-size: 42px;
+  color:white
+}
+
+.p1{
+  font-family:verdana;
+  font-size:21px;
+  color:grey;
+}
